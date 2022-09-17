@@ -65,3 +65,61 @@
 * swlling is due to leakage opf fluid from the postcapilary venule and is mediated by **histamine** and tissue damage
 * pain (dolor) is due to bradykinin and PGE2 by sensitizing sensory nerve endings 
 * fever is due to pyrogens (IL-1 and TNF) increasing COX activity in the perivascular cells of the hypothalamus leading to an increase in PGE2
+## Neutrophil Arival and Function
+* peaks at 24 hours; followed by macrophage phase (peaks at 2-3 days) and preceded by fluid phase (above)
+1. Margination
+	* vasodilation causes the cells to marginate from the center to the periphery 
+2. Rolling 
+	* marginated cells will hit selectins causing the cells to slow down and roll
+		* P-selectin is released from WP bodies by histamine
+		* E-selectin is induced by TNF and IL-1
+	* selectins bind sialyl-LewisX on leukocytes 
+		* this interactions results in rolling of leukocytes along the vessel wall
+3. Adhesion
+	* cellular adhesion molecules (CAMs) are upregulated by TNF and IL-1
+	* CAMs bind integrins which are upregulated on leukocytes by C5a and LTB4
+		* **Leukocyte Adhesion Deficiency** occurs due to a defect in the CD18 subunit of integrins leading to:
+			1. delayed seperation of the umbilical cord
+				* necrosis allows for seperation of the umbilical cord but it is faulty here 
+			2. increased circulating neutrophils
+			3. recurrent bacterial infections that lack pus
+4. Transmission and Chemotaxis 
+	* leukocytes transmigrate across endothelium of postcapillary venules towards chemical attractants (baterial products, IL8, C5a, LTB4)
+5. Phagocytosis
+	* consumption of pathogens or necrotic tissue is enhanced by opsonins (C3b, IgG)
+	* psuedopods from leukocytes etend to form phagosomes
+		* internalizes and merges with lysosomes
+	* **Chediack-Higashi Syndrome** involves defect in protein trafficking and thus impaired phagosome formation leading to:
+		1. increased risk of pyogenic infections
+		2. neutropenia
+		3. giant granules in leukocytes
+		4. defective primary hemostasis
+		5. albinism
+		6. peripheral neuropathy
+6. Destruction of Phagocytosed Material
+	1. Oxygen-dependent mechanism
+		* O2 + NADPHOx --> O2- + SOD --> H2O2 + MPO --> HOCl
+		* most effective mechanism
+		* **Chronic Granulomatous Disease** is a NADPH Ox defect (X-linked or autosomal recessive) leading to:
+			1. chronic granulomas 
+			2. recurrent infections with catalase positive organisms
+				* catalase destroys H2O2, preventing an alternative pathway for bleach
+				* S. Aureus, **P. cepacia**, S. marcescens, Nocardia, Aspergillus
+			3. Nitroblue Tetrazolium test (turns blue in the presense of O2-)
+		* **MPO Deficiency** is a MPO defect leading to an increased risk of Candida infections with a:
+			1. normal NBT 
+			2. most patients are asymptomatic
+	2. O2-independent mechanism
+		* leff effective
+7. Resolution
+	* neutrophils undergo apoptosis (pus) and disappear within 24 hours after resolution of inflammation
+## Macrophage Arival and Function
+* arrive via the same mechanism of margination, rolling, adhesion, and transmigration 
+* derived from monocytes in blood
+* ingest content using phagocytosis and use O2-independent mechanism to destroy materials in secondary granules 
+* triage the next step of inflammation:
+	* can trigger resolution and healing via IL-10 and TGF-B
+	* can continue accute inflammation via IL-8
+	* can creater an abcess to wall off an organism and inflammation
+	* can trigger chronic inflammation
+
