@@ -22,17 +22,17 @@
 * focal ischemia < 24 hrs is considered transient while focal ischemia > 24 hrs is considered ischemic stroke
 	* ischemic stroke is regional ischemia that results in focal neurologic deficits for > 24 hrs
 * can develop 3 ways: 
-1. thrombotic stoke 
-	* arises due to rupture of atherosclerotic plaque (usually at branch points)
-	* results of a pale infarct at the periphery of cortex 
-2. embolic stroke 
-	* due to thromboembolus (most commonly on the left side of the heart from a-fib event)
-	* usually involves the middle cerebral artery
-	* results in hemorrhagic infarct
-3.  lacunar stroke
-	* involves the small blood vessels of the brain secondary to hyaline arteriolosclerosis
-		* can occur due to benign hypertension or diabetes
-	* classically involves the deep structures of the brain and the lenticulostriate vessels 
+	1. thrombotic stoke 
+		* arises due to rupture of atherosclerotic plaque (usually at branch points)
+		* results of a pale infarct at the periphery of cortex 
+	2. embolic stroke 
+		* due to thromboembolus (most commonly on the left side of the heart from a-fib event)
+		* usually involves the middle cerebral artery
+		* results in hemorrhagic infarct
+	3.  lacunar stroke
+		* involves the small blood vessels of the brain secondary to hyaline arteriolosclerosis
+			* can occur due to benign hypertension or diabetes
+		* classically involves the deep structures of the brain and the lenticulostriate vessels 
 * ischemic stroke leads to liquefactive necrosis of the brain
 	1. early finding is red neurons (12 hrs)
 	2. neutrophils, microglical cells and granulation tissue come in (1 day - 1 week)
