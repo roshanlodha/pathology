@@ -16,4 +16,17 @@
 * inherited degeneration of the **anterior motor horn** -- essentially autosomal recessive polio
 * presents with "floppy baby"
 * death occurs within a few years of birth
-## Amyotrophic Lateral Sclerosis 
+## Amyotrophic Lateral Sclerosis (ALS)
+* degenerative disorder of the upper and lower motor neurons via the **corticospinal tract**
+* **anterior motor horn** involvement leads to LMN signs
+* **lateral corticospinal tract** involvement leads to UMN signs
+* similar to **Syringomyelia** but lacks sensory impairment 
+* most cases are sporadic and arise in middle aged adults
+	* Zinc-copper superoxide dismutase mutation can present in some familial cases
+# Friedreich Ataxia 
+* degeneration of the cerebellum and spinal chord tracts 
+* presents with ataxia (due to cerebellar involvement) with loss of vibratory sense and propioception 
+	* muscle weakness in lower extremities and loss of deep tendon reflexes
+* autosomal recessive disorder with an unstable trinucleotide repeat (GAA) in the frataxin gene 
+	* gene involved in iron free radical handling 
+	* presents in early childhood with hypertrophic cardiomyopathy
