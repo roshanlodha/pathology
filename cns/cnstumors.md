@@ -10,6 +10,7 @@
 		* astrocytes (form the BBB)
 		* Oligodendrocytes (myelinate the axons)
 		* epyendymal cells (line ventricular spaces) 
+
 | Cell Type         | Children              | Adults                  |
 |-------------------|-----------------------|-------------------------|
 | Astrocytes        | Pilocytic Astrocytoma | Glioblastoma Multiforme |
