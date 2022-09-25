@@ -10,13 +10,13 @@
 		* astrocytes (form the BBB)
 		* Oligodendrocytes (myelinate the axons)
 		* epyendymal cells (line ventricular spaces) 
-| Cell Type			| Children				| Adults 					|
-| ------------- 	| ------------- 		| ------------- 			|
-| Astrocytes		| Pilocytic Astrocytoma	| Glioblastoma Multiforme	|
-| Oligodendrocytes	| N/A					| Oligodendroglioma			|
-| Ependymal			| Ependymoma			| N/A						|
-| Neurons			| Meduloblastoma		| N/A						|
-| Meningomyelocells	| N/A					| Meningioma				|
+| Cell Type         | Children              | Adults                  |
+|-------------------|-----------------------|-------------------------|
+| Astrocytes        | Pilocytic Astrocytoma | Glioblastoma Multiforme |
+| Oligodendrocytes  | N/A                   | Oligodendroglioma       |
+| Ependymal         | Ependymoma            | N/A                     |
+| Neurons           | Meduloblastoma        | N/A                     |
+| Meningomyelocells | N/A                   | Meningioma              |
 
 * tumors in adults occur above the tentorium while tumors in kids occur below the tentorium 
 ### Glioblastoma Multiforme
