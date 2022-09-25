@@ -55,6 +55,8 @@
 	* associated with Marfan and AD PKD (Autosomal Dominant Posycystic Kidney Disease)
 * presents with sudden headache ("the worst headache of my life") with nuchal rigidity
 * LP shows xanthochromia (yellow tinge to the CSF due to bilirubin)
+* treatment:
+	* oral **nimodipine** should be given after subarachnoid hemorrhage to prevent vasospasm and ischemic stroke
 
 
 

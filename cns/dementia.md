@@ -2,6 +2,7 @@
 * characterizded by a loss of neurons within the gray matter
 	* degeneration of gray matter in the cortex leads to dementia
 	* degeneration of brainstem or **basal ganglia** gray matter in movement problems
+* disruption of the ubiquitin-proteasome pathway has been implicated in several dementia conditions
 ## Alzheimer Disease
 * degenerative disease of the cortex that is the most common cause of dementia
 * amyloid precursor protein creates a receptor on neurons 
@@ -76,6 +77,7 @@
 	* early-onset dimentia suggests a different disorder: **Lewy body dementia**
 		* characterized by dementia, hallucination, and parkinsonian features with **cortical** Lewy bodies
 			* instead of deep brain Lewy bodies
+* no parkinsonian tremors are often the result of medication uptiters, including SSRIs
 ## Huntington's Disease
 * loss of the GABAergic neurons of the **caudate nucleus** of the basal ganglia
 	* loss of caudate nuclear leads to opening up of the lateral ventricle (hydrocephalus ex vacuo)
