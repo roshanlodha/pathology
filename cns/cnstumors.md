@@ -58,6 +58,7 @@
 	* cystic lesion with a nodule growing on the wall 
 * on histology:
 	* astrocytes with thick eosinic cytoplasm (Rosenthal fibers) 
+		* "eosinophilic, corkscrew-like processes"
 	* GFAP positive as astrocytes are glial cells 
 #### Medulloblastoma
 * malignant tumor derived from granular cells of cerebellum (derived from neuroectoderm)

@@ -78,6 +78,11 @@
 		* characterized by dementia, hallucination, and parkinsonian features with **cortical** Lewy bodies
 			* instead of deep brain Lewy bodies
 * no parkinsonian tremors are often the result of medication uptiters, including SSRIs
+* treatment:
+	* Amantidine increases dopamine release and uptake
+		* anticholinergic side effects (dry mouth, constipation) 
+		* prolonged QT interval
+		* psychological disorders (e.g., hallucinations, anxiety)
 ## Huntington's Disease
 * loss of the GABAergic neurons of the **caudate nucleus** of the basal ganglia
 	* loss of caudate nuclear leads to opening up of the lateral ventricle (hydrocephalus ex vacuo)
