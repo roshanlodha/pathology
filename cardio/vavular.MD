@@ -29,3 +29,51 @@
 * results in stenosis from several acute rheumatic attacks
 * chordae tendinaea of mitral valve (and somtimes aortic valve) will thicken
 	* in aortic valve, it will lead to fusion of commissures
+## Aortic Stenosis
+* narrowing of aortic valve (becomes less than 1 cm)
+* usually due to fibrosis and calcification from "wear and tear" over age
+* presents in late adulthood
+* bicuspid aortic valve increases risk and hastens onset of aortic stenosis 
+* may also arise from chronic rheumatic valve disease
+* complications:
+	* concentric left ventricular hypertrophy
+	* angina and syncope with exercise
+	* microangiopathic hemolytic anemaia 
+* treatment:
+	* valve replacement
+## Aortic Regurgitation 
+* backflow of blood from aorta into LV during diastole
+* most commonly arises due to isolated aortic root dilation or valve damage
+* early, blowing diastolic murmur 
+	* blood will go back during diastole 
+	* hyperdynamic circulation
+* LV dilation and eccentric (one aspect of the ventricle) hypertrophy 
+# Mirtal Valve Prolapse
+* balooning of the mitral valve into the left atrium 
+* mitral valve becomes floppy and bloons when opening backwards (leading to a "click")
+* complications:
+	* infectious endocarditis 
+	* arrhythmia
+	* severe mitral regurgitation
+* treatment:
+	* valve replacement
+# Mitral Regurgitation
+* reflux of blood from the LV to the LA during systole
+* complication of MVP
+* can be caused by LV dilation, infectious endocarditis, acute rheumatic heart disease, and papillary muscle rupture after MI
+* presentation:
+	* holosystolic "blowing" murmur during systole
+	* louder with squatting and expiration 
+	* results in volume overload and left-sided HF
+## Mitral Stenosis
+* narrowing of mitral valve orifice
+* usually due to chronic theumatic valve disease
+* open snap followed by a diastolic rumble 
+* complications:
+	* volume overload leads to dilatation of the LA
+	* pulmonary congestion (HF cells)
+	* pulmonary hypertension
+	* a fib
+
+	
+
