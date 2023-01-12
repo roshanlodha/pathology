@@ -74,6 +74,3 @@
 	* pulmonary congestion (HF cells)
 	* pulmonary hypertension
 	* a fib
-
-	
-

@@ -61,7 +61,7 @@ clinical presentation:
 * presents as lower extremity cyanosis 
 ### Adult
 * not assoicated with PDA so there is a coarctation distal to aortic arch
-	* leads to upper extremity hypertension and lower extremity hypotension 
+	* leads to upper extremity hypertension and lower extremity hypotension
 	* leads to development of collateral circulation including in the rib
 		* causes compression and notching of bone surface 
 * associated with bicuspid aortic valve
